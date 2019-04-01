@@ -1,8 +1,8 @@
 # SCUC-UserCuts
 
-This repository contains the information to simulate an Security constrained unit commitment with "User Cuts" implementation in order to reduce the computational burden.
+This repository contains the information to simulate an security constrained unit commitment with "User Cuts" implementation in order to reduce the computational burden.
 
-# CopyRight
+# Copyright
 
 The input data and original model files were taken form: https://labs.ece.uw.edu/real/gams_code.html
 
