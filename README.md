@@ -48,7 +48,7 @@ This code is provided under a BSD license as part of DEMIERI project.
 
 [License file](../master/LICENSE)
 
-## gratefulness
+## Gratefulness
 
 [Colciencias](https://colciencias.gov.co)  
 
