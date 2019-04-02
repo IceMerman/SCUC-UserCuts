@@ -22,8 +22,8 @@ Jesús M. López-Lezama, Universidad de Antioquia, jmaria.lopez@udea.edu.co
 Walter Mauricio Villa-Acevedo, Universidad de Antioquia, walter.villa@udea.edu.co   
 
 ## Files
-file.gms is the main file
-inputdata.gms read the input data
+file.gms is the main file  
+inputdata.gms read the input data  
 
 ## Citation
 
