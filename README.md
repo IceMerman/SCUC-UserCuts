@@ -27,7 +27,7 @@ inputdata.gms read the input data
 
 ## Citation
 
-If you use this material, lease refer to:
+If you use this material, please refer to:
 
 Pending
 
