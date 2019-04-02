@@ -15,11 +15,11 @@ Linear sensitive factors....
 
 ## Contact 
 
-* Cristian Camilo Marín-Cano, Universidad de Antioquia, cristian1013@gmail.com
-* Juan Esteban Sierra-Aguilar, Universidad de Antioquia, juane.sierra@udea.edu.co
-* Jesús M. López-Lezama, Universidad de Antioquia, jmaria.lopez@udea.edu.co
-* Álvaro Jaramillo-Duque, Universidad de Antioquia, alvaro.jaramillod@udea.edu.co
-* Walter Mauricio Villa-Acevedo, Universidad de Antioquia, walter.villa@udea.edu.co
+Cristian Camilo Marín-Cano, Universidad de Antioquia, cristian1013@gmail.com   
+Juan Esteban Sierra-Aguilar, Universidad de Antioquia, juane.sierra@udea.edu.co   
+Jesús M. López-Lezama, Universidad de Antioquia, jmaria.lopez@udea.edu.co   
+Álvaro Jaramillo-Duque, Universidad de Antioquia, alvaro.jaramillod@udea.edu.co   
+Walter Mauricio Villa-Acevedo, Universidad de Antioquia, walter.villa@udea.edu.co   
 
 ## Files
 file.gms is the main file
