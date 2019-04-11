@@ -25,8 +25,8 @@ Walter Mauricio Villa-Acevedo, Universidad de Antioquia, walter.villa@udea.edu.c
 
 file.gms is the main file  
 inputdata.gms read the input data  
-makeDF.py Python function to read system data from excel, compute PTDF adn LODF, then export the data as .inc   
-pyexcel2inc Python utility to convert data from excel to GAMS .inc format  
+makeDF.py Python function to read system data from excel, compute PTDF and LODF, then export the data as .inc   
+pyexcel2inc.py Python utility to convert data from excel to GAMS .inc format  
 Any.inc file(s) with input data for this model  
 
 ## Citation
